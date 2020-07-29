@@ -1,0 +1,22 @@
+{
+  "name": "simple-js-implementations",
+  "version": "1.0.0",
+  "description": "Simple implementations of various patterns in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SevketYALCIN/simple-js-implementations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SevketYALCIN/simple-js-implementations/issues"
+  },
+  "homepage": "https://github.com/SevketYALCIN/simple-js-implementations#readme",
+  "dependencies": {
+    "jest": "26.1.0"
+  }
+}
