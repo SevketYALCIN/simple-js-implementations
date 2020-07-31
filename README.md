@@ -1,6 +1,6 @@
 # simple-js-implementations
 
-Simple implementations of various concepts and patterns in JavaScript.
+I code various concepts and patterns in vanilla JavaScript.
 
 - EventEmitter
 - Currying
