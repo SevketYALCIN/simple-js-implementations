@@ -4,6 +4,7 @@ I code various concepts and patterns in vanilla JavaScript.
 
 - EventEmitter
 - Currying
+- High order functions
 
 TODO
 - Functionnal programming / high order functions
